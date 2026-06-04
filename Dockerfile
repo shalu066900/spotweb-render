@@ -1,1 +1,1 @@
-
+FROM erikdevries/spotweb:latest
